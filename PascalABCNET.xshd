@@ -125,7 +125,7 @@
 		<Key word = "Succ" />
 		<Key word = "SetLength" />
 		<Key word = "EOF" />
-		<Key word = "EOLN" />
+		<Key word = "EOL" />
 		<!--Key word = "" /-->
 	 </KeyWords>
 	 
