@@ -129,12 +129,10 @@
 		<!--Key word = "" /-->
 	 </KeyWords>
 	 
-	 <KeyWords name = "StdMudules" bold = "false" italic = "true" color = "Blue">
-		<Key word = "Dos" />
-		<Key word = "WinDos" />
+	 <KeyWords name = "ABSModules" bold = "false" italic = "true" color = "Blue">
 		<Key word = "Crt" />
+		<Key word = "FormsABC" />
 		<Key word = "GraphABC" />
-		<Key word = "Strings" />
 		<Key word = "ABCObjects" />
 		<Key word = "ABCSprites" />
 		<Key word = "Timers" />
@@ -151,7 +149,7 @@
 	<KeyWords name = "BeginEnd" bold = "true" italic = "true" color = "#114500">
 		<Key word = "begin" />
 		<Key word = "end" />
-	</KeyWords> 
+	</KeyWords>
 
 	<KeyWords name = "Async" bold = "true" italic = "false" color = "DarkRed">
 		<Key word = "async" />
@@ -335,8 +333,6 @@
 			<Key word = "true" />
 	  	</KeyWords>
 	</RuleSet>
-		
-
-		
+	
 	</RuleSets>
 </SyntaxDefinition>
